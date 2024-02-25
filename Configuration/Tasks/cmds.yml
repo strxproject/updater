@@ -1,0 +1,6 @@
+title: StarixCMDs
+actions:
+  # Run some shit. IDK.
+  - !cmd:
+    command: 'echo AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
+    weight: 30
